@@ -24,5 +24,10 @@
     "none": "^1.0.0",
     "vanilla-javascript": "^1.1.1",
     "vapor-js-npm": "^1.4.6"
+  },
+  "homepage": "https://github.com/tj-commits/falsejs-core-ish",
+  "repository": {
+    "url": "git=https://github.com/tj-commits/falsejs-core-ish.git",
+    "type": "git"
   }
 }
