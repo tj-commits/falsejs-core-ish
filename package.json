@@ -1,0 +1,28 @@
+{
+  "name": "@falsejs/core-ish",
+  "version": "1.0.0",
+  "description": "the core-ish of falsejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "auntie",
+    "em",
+    "are",
+    "we",
+    "still",
+    "in",
+    "kansas"
+  ],
+  "author": "tj-commits",
+  "license": "MIT",
+  "dependencies": {
+    "@_immo/return": "^1.1.1",
+    "false": "^0.0.4",
+    "is-equal-to": "^1.1.2",
+    "none": "^1.0.0",
+    "vanilla-javascript": "^1.1.1",
+    "vapor-js-npm": "^1.4.6"
+  }
+}
